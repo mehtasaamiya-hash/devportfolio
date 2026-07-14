@@ -1,17 +1,15 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Saamiya Mehta",
+  title: "High School Student",
+  description: "Portfolio Website of Saamiya Mehta",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "mehtasaamiya@gmail.com",
+    github: "https://github.com/mehtasaamiya-hash",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am a high school student with a passion for technology and engineering. Some of my hobbies include Model UN, Bollywood Dance, and Technology Student Association.",
+  skills: ["Javascript", "Python", "Git"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -37,9 +35,9 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Mathnasium",
+      title: "Math Instructor",
+      dateRange: "June 2026 - Present",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
         "Reduced API response times by 40% through optimization",
