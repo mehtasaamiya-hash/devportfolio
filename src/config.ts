@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Saamiya is a high school student with a passion for technology and engineering. She enjoys participating in activities such as Model United Nations, TSA, FBLA, and Bollywood Dance. She is always eager to learn and take on new challenges!",
-  skills: ["Javascript", "Python", "Git"],
+  skills: ["Javascript", "Python", "Git"], 
   extracurriculars: [
     {
       name: "Think Neuro Software Engineering Internship",
